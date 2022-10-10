@@ -1,0 +1,19 @@
+.workout__div {
+}
+
+.workout__header {
+  background-color: #999;
+}
+
+.workout__content {
+  display: flex;
+  justify-content: space-between;
+  padding: 1% 5%;
+  align-items: center;
+}
+
+.workout__add_button {
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid black;
+}
